@@ -1,0 +1,283 @@
+Question Q4 (996 responses)
+
+Chatting: 756 (75%)
+Coordinating events: 350 (35%)
+Work- or school-related activity: 277 (27%)
+Topic-based discussions: 123 (12%)
+No answer: 32 (3%)
+
+
+
+Question Q5 (996 responses)
+
+Simple or easy to use: 414 (41%)
+Messaging is fast: 324 (32%)
+No answer: 307 (30%)
+Easy to share media: 81 (8%)
+Easy to lookup old messages: 42 (4%)
+Easy to control who is in the group: 3 (0%)
+Status indicators: 3 (0%)
+Less stressful than calling: 2 (0%)
+Don't have to give out personal number: 1 (0%)
+Helps with privacy: 1 (0%)
+Not having to talk: 1 (0%)
+
+
+
+Question Q6 (996 responses)
+
+Too many messages to keep up with: 398 (39%)
+No answer: 370 (37%)
+Privacy concerns: 99 (9%)
+Less face-to-face communication: 48 (4%)
+Textual communication is imprecise: 34 (3%)
+Needs a reliable Internet connection: 28 (2%)
+Too many different chat applications: 24 (2%)
+Inappropriate behavior: 20 (2%)
+Message permanence: 8 (0%)
+Can't view user profile: 1 (0%)
+Not sure if the message was received: 1 (0%)
+reputation: 1 (0%)
+
+
+
+Question Q7 (996 responses)
+
+What everyone else is using: 696 (69%)
+Usability of the app: 137 (13%)
+No answer: 63 (6%)
+Based on its features: 59 (5%)
+Cost: 54 (5%)
+Based on what services or topics it is associated with: 53 (5%)
+Based on what tools are used at work or school: 50 (5%)
+What i have always used: 45 (4%)
+Security: 12 (1%)
+Based on reviews: 8 (0%)
+Cross-platform compatibility: 1 (0%)
+
+
+
+Question Q12 (96 responses)
+
+Due to lack of activity or end of social relationship: 47 (48%)
+Because of my misbehavior: 25 (26%)
+As a joke: 18 (18%)
+No answer: 6 (6%)
+Uncertain: 1 (1%)
+
+
+
+Question Q13 (100 responses)
+
+It was hurtful: 53 (53%)
+It was fine: 47 (47%)
+
+
+
+Question Q15 (793 responses)
+
+Ensure the person is a good fit for the group or topic (inter-personal): 627 (79%)
+Privacy considerations: 196 (24%)
+No answer: 9 (1%)
+
+
+
+Question Q18 (803 responses)
+
+It is OK: 665 (82%)
+It is not OK: 134 (16%)
+No answer: 4 (0%)
+
+
+
+Question Q22 (133 responses)
+
+Gossip or discussion about other people: 88 (66%)
+My sensitive information was shared without my permission: 19 (14%)
+No answer: 10 (7%)
+An image of me was misued: 6 (4%)
+Something I said was misunderstood or quoted out of context: 6 (4%)
+Inappropriate/offensive comments: 4 (3%)
+
+
+
+Question Q23 (140 responses)
+
+I reached out to the other individual to resolve it: 65 (46%)
+I didn't act on it: 56 (40%)
+I left the group: 11 (7%)
+No answer: 8 (5%)
+Administrator handled it: 2 (1%)
+Changed the subject: 1 (0%)
+
+
+
+Question Q25 (245 responses)
+
+Games: 59 (24%)
+Hobbies: 39 (15%)
+Social: 28 (11%)
+Work: 26 (10%)
+Finance: 23 (9%)
+Health: 22 (8%)
+Politics: 21 (8%)
+Entertainment: 19 (7%)
+Technology: 18 (7%)
+School: 16 (6%)
+Music: 14 (5%)
+Sports: 13 (5%)
+Books: 11 (4%)
+Philosophy: 9 (3%)
+Art: 6 (2%)
+Family: 6 (2%)
+Religion: 1 (0%)
+
+
+
+Question Q27 (44 responses)
+
+Don't Know All Group Members: 17 (38%)
+Association: 9 (20%)
+Leaking Personal Information: 6 (13%)
+Sharing without Permission: 5 (11%)
+Being Contacted by Strangers: 2 (4%)
+Don't Trust Companies/Government: 2 (4%)
+Illegal Activity: 2 (4%)
+Medical Information: 2 (4%)
+Someone Misusing What I Share: 1 (2%)
+
+
+
+Question Q29 (249 responses)
+
+Financial/personally identifying information: 85 (34%)
+Personal feelings or opinions: 51 (20%)
+Medical (not mental health): 44 (17%)
+Mental health: 34 (13%)
+Family relationships or issues: 32 (12%)
+Sexuality: 30 (12%)
+No answer: 28 (11%)
+Romantic relationships: 26 (10%)
+Non-family relationships: 8 (3%)
+Drug use: 7 (2%)
+
+
+
+Question Q30 (996 responses)
+
+It prevents non-group members from reading the message: 432 (43%)
+It is important (no specifics given): 375 (37%)
+No answer: 115 (11%)
+Allows strict control of who is in a group: 42 (4%)
+Unsure or doesn't think about it: 38 (3%)
+Data not stored on server: 13 (1%)
+Allows message deletion: 9 (0%)
+Anonymity: 2 (0%)
+It ensures that messages really come from who they say they do: 1 (0%)
+My messages are not important: 1 (0%)
+Open source: 1 (0%)
+
+
+
+Question Q31 (996 responses)
+
+I self-filter messages: 303 (30%)
+I manage group membership carefully: 272 (27%)
+I do nothing: 250 (25%)
+I ensure that my device is properly secured: 65 (6%)
+No answer: 65 (6%)
+I only use secure apps: 62 (6%)
+I ensure the app is correctly configured: 56 (5%)
+Use passwords: 47 (4%)
+I set messages to expire after some time: 16 (1%)
+I take standard security measures (unspecific): 15 (1%)
+Install updates: 4 (0%)
+VPN: 3 (0%)
+2factor: 2 (0%)
+Other...: 1 (0%)
+Use pseudonymn: 1 (0%)
+
+
+
+Question Q32 (996 responses)
+
+Unsure or I do nothing to decide if a tool is secure: 290 (29%)
+Based on reviews: 158 (15%)
+No answer: 137 (13%)
+Based on whether it supports encryption: 122 (12%)
+Based on the popularity of the tool: 96 (9%)
+Nothing is secure: 94 (9%)
+Reputation: 57 (5%)
+Based on recommendations from friends and family: 50 (5%)
+Based on prior personal experience: 40 (4%)
+Read documentation: 37 (3%)
+Based on whether it claims to be secure: 15 (1%)
+Continue using one I have always used: 9 (0%)
+No known breaches: 8 (0%)
+No known exploits: 8 (0%)
+Notifies if screenshot taken: 6 (0%)
+Based on whether it supports message expiration: 3 (0%)
+
+
+
+Question Q34 (405 responses)
+
+WhatsApp: 210 (51%)
+Facebook Messenger: 99 (24%)
+Skype: 45 (11%)
+Discord: 43 (10%)
+iMessage: 41 (10%)
+Snapchat: 34 (8%)
+Signal: 24 (5%)
+Slack: 17 (4%)
+Telegram: 17 (4%)
+All: 14 (3%)
+Google Hangouts: 14 (3%)
+Instagram: 11 (2%)
+Those I Use: 7 (1%)
+SMS: 5 (1%)
+Viber: 5 (1%)
+Don't know: 4 (0%)
+Kik: 4 (0%)
+GroupMe: 3 (0%)
+KaKaoTalk: 2 (0%)
+Line: 2 (0%)
+None: 2 (0%)
+TeamSpeak: 2 (0%)
+WeChat: 2 (0%)
+XMPP: 2 (0%)
+Allo: 1 (0%)
+Bantu: 1 (0%)
+Blackberry Messenger: 1 (0%)
+KaoKaoTalk: 1 (0%)
+LinkedIn: 1 (0%)
+Microsoft Teams: 1 (0%)
+Mumble: 1 (0%)
+SOMA: 1 (0%)
+Self-hosted: 1 (0%)
+TextNow: 1 (0%)
+
+
+
+Question Q36 (107 responses)
+
+Deception is a common problem: 59 (55%)
+The person was acting strangely: 40 (37%)
+No answer: 10 (9%)
+
+
+
+Question Q37 (108 responses)
+
+Based on personal knowledge of the person (such as how they talk): 28 (25%)
+Cross-reference to another account: 26 (24%)
+You can't: 16 (14%)
+No answer: 12 (11%)
+Have them send a picture: 11 (10%)
+Unsure or I do nothing to verify the identify of chat participants: 10 (9%)
+Video chat with the person: 8 (7%)
+Check with other group members: 2 (1%)
+Admin handles it: 1 (0%)
+
+
+
