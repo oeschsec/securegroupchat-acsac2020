@@ -1,5 +1,5 @@
 # Group Chat Survey
-This repository contains the data and analysis for the paper "Understanding User Perceptions of Security and Privacy for Group Chat: A Survey of Users in the US and UK".
+This repository contains the data and analysis for the paper "Understanding User Perceptions of Security and Privacy for Group Chat: A Survey of Users in the US and UK". The paper can be found [here](https://dl.acm.org/doi/10.1145/3427228.3427275). 
 
 ## Data Files
 
